@@ -6,3 +6,4 @@
 ^toypackageJD\.Rcheck$
 ^toypackageJD.*\.tar\.gz$
 ^toypackageJD.*\.tgz$
+^LICENSE\.md$
